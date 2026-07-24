@@ -1,0 +1,35 @@
+/* Contoh ganti warna sidebar */
+.sb-sidenav {
+    background-color: #1677cd !important; /* Coral */
+}
+
+/* Navbar atas */
+.navbar.navbar-expand.navbar-dark.bg-dark {
+    background-color: #67b0f0 !important; /* OrangeRed */
+}
+
+/* Tombol utama */
+.btn-primary {
+    background-color: #ff69b4 !important; /* HotPink */
+    border-color: #ff69b4 !important;
+}
+
+.btn-edit-custom {
+    background-color: #6f42c1; /* Ungu */
+    color: white;
+    border: none;
+}
+
+.btn-edit-custom:hover {
+    background-color: #5a32a3;
+}
+
+.btn-delete-custom {
+    background-color: #e83e8c; /* Pink tua */
+    color: white;
+    border: none;
+}
+
+.btn-delete-custom:hover {
+    background-color: #c83279;
+}
